@@ -3,8 +3,6 @@ This is appendix and data for the article "Coordinated Dispatch Based on Distrib
 
 Correction Statement for the Paper
 
-Dear Readers,
-
 I find that my paper contains some formatting errors. These errors do not affect the scientific conclusions of the paper, but to ensure the accuracy and professionalism of the paper, I feel it is necessary to make corrections.
 
 The corrections are as follows:
