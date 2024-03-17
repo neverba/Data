@@ -13,7 +13,12 @@ The corrections are as follows:
 
 (2): In the NOMENCLATURE on page one, the term "Indices of electrical, heat, and gas nodes in UIEs" should be corrected to "Indices of electrical, heat, and gas nodes in UIES."
 
-(3):  In equation (36), the dual residual “ε” should not have the subscript k.
+(3): In equation (1a), $P_{k, t}^{\mathrm{tu}}$ and $P_{k, t}^{\mathrm{ut}}$ respectively represent the power on both sides of the connecting line between TS and UIES_k.
+     In equation (1b), $P_{ku,k,t}^{\mathrm{uu}}$ and $P_{ku,u,t}^{\mathrm{uu}}$ respectively represent the power on both sides of the connecting line between UIES_k and UIES_u.
+
+(4): In equation (2), "k=1" should be corrected to "r=1".
+
+(5): In equation (36), the dual residual “ε” should not have the subscript k. 
 
 
-I deeply apologize for any inconvenience these errors may have caused to the readers.
+I deeply apologize for any inconvenience these errors may have caused to you.
